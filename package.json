@@ -1,10 +1,10 @@
 {
   "name": "baileys",
-  "version": "8.5.12",
+  "version": "9.2.13",
   "description": "WhatsApp API",
   "keywords": [
     "Baileys",
-    "whiskeysockets/baileys",
+    "Diegoson/baileys",
     "whatsapp",
     "meta",
     "whatsapp",
@@ -15,12 +15,12 @@
     "whatsapp-group",
     "multi-device"
   ],
-  "homepage": "https://github.com/Whiskeysockets/Baileys",
+  "homepage": "https://github.com/Diegoson/Baileys",
   "repository": {
     "url": ""
   },
   "license": "MIT",
-  "author": "Adhiraj Singh",
+  "author": "naxordeve",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
@@ -111,6 +111,6 @@
     "lib": "lib"
   },
   "bugs": {
-    "url": "https://github.com/FizzxyDev/Baileys/issues"
+    "url": "https://github.com/Diegoson/Baileys/issues"
   }
 }
