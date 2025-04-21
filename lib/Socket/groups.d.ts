@@ -23,7 +23,7 @@ export declare const makeGroupsSocket: (config: SocketConfig) => {
     groupRevokeInvite: (jid: string) => Promise<string | undefined>;
     groupAcceptInvite: (code: string) => Promise<string | undefined>;
     /**
-     * accept a GroupInviteMessage
+     * accept a GroupInviteMessage permanently 
      * @param key the key of the invite message, or optionally only provide the jid of the person who sent the invite
      * @param inviteMessage the message to accept
      */
